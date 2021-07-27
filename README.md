@@ -10,6 +10,9 @@ I have broadly separated my study into three topics:
 
 3.) Data Structures 
 
+![Screenshot (284)](https://user-images.githubusercontent.com/60286959/127234510-33644b54-2d76-4dc8-81a5-610bd890d49d.jpg)
+
+
 # References
 1.)	https://www.programcreek.com/2012/09/java-vs-python-data-types/
 
