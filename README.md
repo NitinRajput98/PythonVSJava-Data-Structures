@@ -1,9 +1,8 @@
 # PythonVSJava-Data-Structures
 
 Exploring similar data structures that are present in Java when compared to Python.
-Here I have explored data structures that are present in Java which are similar when compared to python data structures.
 All my findings have been mentioned in the pdf file named "JAVA vs PYTHON(Data Structures)".
-I have broadly separted my study into three topics:
+I have broadly separated my study into three topics:
 
 1.) Data Types
 
