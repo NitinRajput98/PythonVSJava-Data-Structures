@@ -1,3 +1,3 @@
 # PythonVSJava-Data-Structures
-## Task:-
+## Task
 Exploring similar data structures that are present in Java when compared to Python
