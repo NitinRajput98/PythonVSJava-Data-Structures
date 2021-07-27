@@ -5,7 +5,9 @@ Here I have explored data structures that are present in Java which are similar 
 All my findings have been mentioned in the pdf file named "JAVA vs PYTHON(Data Structures)".
 I have broadly separted my study into three topics:
 1.) Data Types
+
 2.) Big O notation
+
 3.) Data Structures 
 
 # References
